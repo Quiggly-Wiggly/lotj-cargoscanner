@@ -1,0 +1,17 @@
+You use the datapad to lookup the information.
+--Planet Data: -----------------------------------------
+Planet: Beta
+Starsystem: Betan System
+Governed By: Example Government
+Tax Rate: 15.00
+Beta is a freeport.
+Common metals        ( Price per unit: 119.97)
+Electronics          ( Price per unit: 137.02)
+Food                 ( Price per unit: 125.90)
+Precious metals      ( Price per unit: 171.60)
+Spice                ( Price per unit: 189.66)
+Weapons              ( Price per unit: 153.20)
+Goods                ( Price per unit: 148.17)
+Medical supplies     ( Price per unit: 177.30)
+
+Use 'SHOWPLANET <planet> RESOURCES <resource>' for price history.

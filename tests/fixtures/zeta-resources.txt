@@ -1,0 +1,14 @@
+You use the datapad to lookup the information.
+--Planet Data: -----------------------------------------
+Planet: Zeta
+Starsystem: Zeta System
+Governed By: Example Government
+Tax Rate: 15.00
+Zeta is a freeport.
+Electronics          ( Price per unit: 130.00)
+Common metals        ( Price per unit: 127.83)
+Food                 ( Price per unit: 122.03)
+Spice                ( Price per unit: 193.10)
+Water                ( Price per unit: 118.34)
+
+Use 'SHOWPLANET <planet> RESOURCES <resource>' for price history.

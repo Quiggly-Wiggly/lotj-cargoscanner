@@ -1,0 +1,12 @@
+You use the datapad to lookup the information.
+--Planet Data: -----------------------------------------
+Planet: Test Moon
+Starsystem: Test System
+Governed By: Example Neutral
+Tax Rate: 15.00
+Test Moon is a freeport.
+Common metals        ( Price per unit: 131.13)
+Electronics          ( Price per unit: 126.00)
+Water                ( Price per unit: 106.16 )
+
+Use 'SHOWPLANET <planet> RESOURCES <resource>' for price history.

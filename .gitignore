@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.log
+*.dat
+*.bak
+*.tmp
+galaxy-snapshot.json
+lotj-cargoscanner-quotes.txt
+lotj-cargoscanner-settings.txt
